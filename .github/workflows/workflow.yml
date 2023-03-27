@@ -29,4 +29,4 @@ jobs:
       - name: collie
         uses: dvkunion/collie_tricker@main
         with:
-          token: 52081cbb3af6a25357095b862f765115
+          token: 9c0a437cacbda615b74ad56f1289eb3b
